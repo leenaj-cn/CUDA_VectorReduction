@@ -1,0 +1,1 @@
+nvcc -O3 -Xcompiler "-Wall" VectorReduction.cu -o VectorReduction
