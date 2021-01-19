@@ -1,0 +1,1 @@
+nvcc -O3 -Xcompiler "-Wall" 2D_reduction.cu -o 2D_reduction
