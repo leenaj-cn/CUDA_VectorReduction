@@ -12,4 +12,5 @@ GPU result:10000000.000000      GPU time=0.894208 ms
 
 Speed up=13.984666
 
+
 ```
